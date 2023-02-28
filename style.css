@@ -2,6 +2,8 @@ h1 {color:blue;}
 #id1 {background-color: pink;}
 .class1 {color:rgb(228, 240, 63)}
 a {background-color: beige;}
+/* nechceme u odkazu podrtrzeni*/
+a {text-decoration: none}
 .class2.class3 {background-color: blanchedalmond;} 
 .class2 p {background-color: azure;}
 /* .class1 {background-image: url("50e7d2444f4faa0df7c5d57bc32f3e7b1d3ac3e45659764f7d2e7bd094_640.jpg")}
@@ -20,3 +22,10 @@ a:link{color: brown;}
 a:hover{color: blue;}
 a:visited{color: green;}
 a:active{color: hotpink;}
+/*odstranime odrazky a pridame misto uvnitr*/
+ul {list-style-type: none;margin:0;padding:0}
+li {display: inline;}
+li {margin: 10px 10px 10px 10px;}
+li {padding: 10px 10px 10px 10px;}
+li {border: 2px solid black;}
+a {display: block;}
