@@ -28,4 +28,6 @@ li {display: inline;}
 li {margin: 10px 10px 10px 10px;}
 li {padding: 10px 10px 10px 10px;}
 li {border: 2px solid black;}
-a {display: block;}
+a  {display: block;}
+/* inline elementum se neda nastavit margin a padding*/
+
