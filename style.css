@@ -31,6 +31,7 @@ li {border: 2px solid black;}
 a  {display: block;}
 /* inline elementum se neda nastavit margin a padding*/
 .prvniclass {margin-bottom: 100px;}
-#id2 {background-color: bisque;width:200px;height:200px;overflow: hidden;}
-
+#id2 {background-color: bisque;width:20%;height:200px;overflow: hidden;}
+/*vlastnost float*/
+.box {border: 1px solid black;width: 20%;float: left;}
 
